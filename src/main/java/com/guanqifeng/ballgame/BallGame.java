@@ -1,5 +1,4 @@
-package com.guanqifeng.java;
-import com.sun.corba.se.impl.orbutil.graph.Graph;
+package com.guanqifeng.ballgame;
 
 import java.awt.*;
 import javax.swing.*;
